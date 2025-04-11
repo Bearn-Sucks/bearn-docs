@@ -7,4 +7,4 @@ Bearn Vaults are the easiest way to put your Berachain assets to work. Bearn off
 - **yBGT Earner Vaults** receive rewards in yBGT tokens. When claimed, the earned BGT is claimed by the protocol and new yBGT is minted and given to the depositor.
 - **Compounder Vaults** automatically redeem the earned BGT tokens to BERA tokens and sell them for more of the underlying vault token.
 
-**The only way to get [yBGT](/docs/overview/yBGT.md) is to deposit in Bearn Vaults.** You don't need BGT or yBGT to deposit... So what are you waiting for?
+**The only way to get [yBGT](/docs/products/yBGT.md) is to deposit in Bearn Vaults.** You don't need BGT or yBGT to deposit... So what are you waiting for?
