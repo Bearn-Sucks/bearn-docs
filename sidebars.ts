@@ -38,6 +38,7 @@ const sidebars: SidebarsConfig = {
       label: '🐻 Resources',
       items: [
         'resources/contract-addresses',
+        'resources/fees',
         'resources/treasury',
         'resources/risks',
         'resources/audits',
