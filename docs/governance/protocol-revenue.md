@@ -2,10 +2,11 @@
 
 Expected Protocol revenue sources include:
 
+- yBGT mint and burn fees
+- yBGT staking yield
+- BGT Compounder fees
+- yBERA performance fees.
 - PSM fees (yield and burning)
-- Secondary Market fees
-- Future CDP fees or interest
-- keepBGT and fees from reward vault deposits.
-- Protocol owned yBGT yield
-- yvBOLLAR performance fees
-- Potential future validator revenue
+- Future CDP fees and interest
+
+Protocol revenues will be distributed back to BEARN stakers in the form of BOLLAR.

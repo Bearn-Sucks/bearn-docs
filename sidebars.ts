@@ -22,7 +22,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '🐻 Products',
-      items: ['products/yBGT', 'products/vaults', 'products/bollar'],
+      items: ['products/yBGT', 'products/yBERA', 'products/vaults', 'products/bollar'],
     },
     {
       type: 'category',
