@@ -9,7 +9,7 @@ Fees collected by the treasury will primarily be converted into yBGT and staked 
 BGT Wrap Fee | 10%
 yBGT Earner vault wrap fee | 9.5%
 yBGT Burn Fee | 5%
-BGT Compounders | 5%
+Vault Compounders | 5%
 styBGT | 10%
 styBGT Compounder | 0%
 yBERA | 10%
