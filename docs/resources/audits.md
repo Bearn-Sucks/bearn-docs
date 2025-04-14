@@ -1,6 +1,3 @@
 # Audits
 
-<span className='working-Bear'>
-    WORKING ON IT!
-    <img src ="/img/thinking-bear.png"/>
-</span>
+https://reports.electisec.tech/reports/03-2025-Bearn
