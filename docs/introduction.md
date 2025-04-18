@@ -12,4 +12,4 @@ Bearn is what happens when you combine the best of Yearn with the liquidity dyna
     <img src ="/img/art-appreciation.png"/>
 </span>
 
-Bearn takes Yearn's experience with liquid lockers and applies them to supercharge the Berachain flywheel with a liquid wrapper for BGT called yBGT, new Vaults, and a Bera-native, over-collateralized, demand driven stable coin called Bollar. Combined, these 3 elements open up new opportunities for positive sum yield farming on Berachain.
+Bearn takes Yearn's experience with liquid lockers and applies them to supercharge the Berachain flywheel with a liquid wrapper for BGT called yBGT, a natively yield bearing BERA wrapper called yBERA, new Vaults, and a Bera-native, over-collateralized, demand driven stable coin called Bollar. Combined, these 4 elements open up new opportunities for positive sum yield farming on Berachain.
