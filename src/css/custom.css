@@ -134,8 +134,10 @@ code {
     var(--ifm-transition-timing-default);
 }
 .header-bearn-link:hover::before {
+  filter: none;
   background-image: url('/img/bearn-bear-only-color.svg');
 }
+
 .header-bearn-link {
   padding-right: 10px;
   padding-left: 10px;
