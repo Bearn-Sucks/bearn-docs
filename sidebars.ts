@@ -22,12 +22,19 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '🐻 Products',
-      items: ['products/yBGT', 'products/yBERA', 'products/vaults', 'products/bollar'],
+      items: [
+        'products/yBGT',
+        'products/yBERA',
+        'products/yHONEY',
+        'products/vaults',
+        'products/bollar',
+      ],
     },
     {
       type: 'category',
       label: '🐻 Governance',
       items: [
+        'governance/boints',
         'governance/tokenomics',
         'governance/emissions',
         'governance/protocol-revenue',
