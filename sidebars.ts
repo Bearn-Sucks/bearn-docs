@@ -25,6 +25,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'products/yBGT',
         'products/yBERA',
+        'products/yHONEY',
         'products/vaults',
         'products/bollar',
       ],
