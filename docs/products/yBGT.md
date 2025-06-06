@@ -29,7 +29,7 @@ There are three ways to get yBGT
 
 3. Buy yBGT through one of the liquidity pools using an app such as [Ooga Booga](https://app.oogabooga.io/).
 
-#### **NOTE**: Due to the pairing of yBGT with yBERA it is recommended to use an aggregator such as [Ooga Booga](https://app.oogabooga.io/) to swap in and out of yBGT in order to make sure you are getting the best execution price possible without needing to manually deposit/withdraw WBERA into yBERA.
+#### **NOTE**: Due to the pairing of yBGT with yBERA it is recommended to use an aggregator such as [Ooga Booga](https://app.oogabooga.io/) to swap in and out of yBGT.
 
 ## Using yBGT
 
