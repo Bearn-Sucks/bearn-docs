@@ -27,22 +27,9 @@ There are three ways to get yBGT
 
 2. Deposit your BGT eligible tokens directly in the reward vault on the Berachain [Hub](https://hub.berachain.com/vaults/). Once you have accumulated claimable BGT go to bearn.sucks and you can mint any unclaimed BGT directly as yBGT.
 
-3. Buy yBGT through one of the liquidity pools using an app such as [Ooga Booga](https://app.oogabooga.io/) or [Kodiak](https://app.kodiak.finance/#/swap?chain=berachain_mainnet).
+3. Buy yBGT through one of the liquidity pools using an app such as [Ooga Booga](https://app.oogabooga.io/).
 
-#### **NOTE**: Until aggregators have the full support for yBERA deposit/withdraw routes it is highly recommended to swap in or out of yBGT one step at a time to achieve the best fill price
-
-Ex Buying yBGT with HONEY:
-
-1) Swap HONEY -> WBERA on any DEX or aggregator
-2) DepositWBERA -> yBERA on [Bearn.sucks](bearn.sucks)
-3) Swap yBERA -> yBGT on a dex like Kodiak or aggregator like Ooga Booga
-
-Ex Selling yBGT -> HONEY
-
-1) Swap yBGT -> yBERA
-2) Redeem yBERA -> WBERA
-3) Swap WBERA -> HONEY
-
+#### **NOTE**: Due to the pairing of yBGT with yBERA it is recommended to use an aggregator such as [Ooga Booga](https://app.oogabooga.io/) to swap in and out of yBGT.
 
 ## Using yBGT
 
@@ -64,4 +51,4 @@ To receive the rewards given to liquidity providers, you will need, yBGT, yBERA 
 
 Visit the [Kodiak Island](https://app.kodiak.finance/#/liquidity/pools/0x5347e5133b22A680Ee94b7e62803E848F8d8C92e?chain=berachain_mainnet) and deposit into the LP (without staking).
 
-Once deposited come back to [Bearn.sucks](bearn.sucks) and deposit the Kodiak ERC20 token to the yBGT/yBERA vault and you will start receiving all relevant rewards given to liquidity providers.
+Once deposited come back to [Bearn.sucks](https://bearn.sucks/ybgt) and deposit the Kodiak ERC20 token to the yBGT/yBERA vault and you will start receiving all relevant rewards given to liquidity providers.

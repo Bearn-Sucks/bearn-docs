@@ -15,7 +15,7 @@ You don't need BGT or yBGT to deposit... So what are you waiting for?
 
 It is permissionless for anyone to deploy their own set of Bearn vaults, as long as there is a deployed Berachain Reward vault.
 
-If there is a new BGT eligible vault that is not listed on the site, simply go the the [Bearn Vault Factory](https://berascan.com/address/0x70b14cd0Cf7BD442DABEf5Cb0247aA478B82fcbb) and call
+If there is a new BGT eligible vault that is not listed on the site, simply go the the [Bearn Vault Factory](https://berascan.com/address/0x99e44F4eE2f9ee7a257C952fc83EE70697f1a362) and call
 
 ```
 vault_factory.createVaults(reward_vault_staking_token);
@@ -26,7 +26,7 @@ This will deploy and configure a yBGT earner and auto compounder for the reward 
 ### Steps
 - First, check that the BGT eligible vault is on [BeraHub](https://hub.berachain.com/vaults/).
 - If it is, click on it and copy the contract address shown beside Staking Token. You may have to click it first which takes you to BeraScan. You can then then copy the address from the BeraScan page.
-- Go to the [Bearn Vault Factory](https://berascan.com/address/0x70b14cd0Cf7BD442DABEf5Cb0247aA478B82fcbb) on BeraScan.
+- Go to the [Bearn Vault Factory](https://berascan.com/address/0x99e44F4eE2f9ee7a257C952fc83EE70697f1a362) on BeraScan.
 - Click the Contract tab.
 - Click the Write Contract tab.
 - Click the Connect to Web3 button and connect your wallet.
